@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: moody's blog # the main title
+title: "moody's blog" # the main title
 
-tagline: write-ups, projects, and other shenanigans  # it will display as the subtitle
+tagline: "write-ups, projects, and other shenanigans"  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
