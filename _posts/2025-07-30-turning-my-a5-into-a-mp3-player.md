@@ -3,6 +3,7 @@ layout: post
 title: Turning my A5 into an MP3 Player
 categories: [misc]
 tags: [project]    
+image: /assets/img/IMG_9891.JPG
 ---
 
 Consider this a short write-up, not to showcase my potential, but simply because I’m excited to document my process. I bought this cracked Android A5 several years ago as a backup phone, and since then, it’s mostly been collecting dust in a drawer. Recently, I found blogs hosting tracks and albums from long-lost MySpace-era bands I wanted to preserve and listen to.
