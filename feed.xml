@@ -1,0 +1,47 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://mood-y.github.io/</id>
+  <title>moody's blog</title>
+  <subtitle>"A blog for my writeups."</subtitle>
+  <updated>2025-07-30T23:22:19+10:00</updated>
+  <author>
+    <name>@moody</name>
+    <uri>https://mood-y.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://mood-y.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://mood-y.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 @moody </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Turning my A5 into an MP3 Player</title>
+    <link href="https://mood-y.github.io/posts/turning-my-a5-into-a-mp3-player/" rel="alternate" type="text/html" title="Turning my A5 into an MP3 Player" />
+    <published>2025-07-30T00:00:00+10:00</published>
+  
+    <updated>2025-07-30T00:00:00+10:00</updated>
+  
+    <id>https://mood-y.github.io/posts/turning-my-a5-into-a-mp3-player/</id>
+    <content type="text/html" src="https://mood-y.github.io/posts/turning-my-a5-into-a-mp3-player/" />
+    <author>
+      <name>@moody</name>
+    </author>
+
+  
+    
+    <category term="misc" />
+    
+  
+
+  <summary>Consider this a short write-up, not to showcase my potential, but simply because I’m excited to document my process. I bought this cracked Android A5 several years ago as a backup phone, and since then, it’s mostly been collecting dust in a drawer. Recently, I found blogs hosting tracks and albums from long-lost MySpace-era bands I wanted to preserve and listen to.  Why?  I enjoy listening to o...</summary>
+
+  </entry>
+
+</feed>
+
+
